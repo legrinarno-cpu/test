@@ -1,0 +1,10 @@
+{
+  "name": "triangular_object",
+  "method": "similarity",
+  "canonical_size": [300, 500],
+  "landmarks": [
+    {"name": "tip", "target": [0.50, 0.10]},
+    {"name": "left_base", "target": [0.15, 0.85]},
+    {"name": "right_base", "target": [0.85, 0.85]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rectangular_card",
+  "method": "perspective",
+  "canonical_size": [600, 400],
+  "landmarks": [
+    {"name": "top_left_corner", "target": [0.05, 0.05]},
+    {"name": "top_right_corner", "target": [0.95, 0.05]},
+    {"name": "bottom_right_corner", "target": [0.95, 0.95]},
+    {"name": "bottom_left_corner", "target": [0.05, 0.95]}
+  ]
+}
